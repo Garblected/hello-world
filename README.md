@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, I'm a software-engineer student in Arizona.
+Hi, I'm studying to be a software-engineer in Arizona.
